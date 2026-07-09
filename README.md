@@ -120,13 +120,13 @@ End-to-end webapps: Figma MCP → Next.js + shadcn/ui frontend, FastAPI/Flask ba
 
 <p align="center">
   <a href="https://github.com/umi008">
-    <img src="https://github-profile-trophy.vercel.app/?username=umi008&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=umi008&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/umi008">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umi008&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umi008&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
   </a>
   <a href="https://git.io/streak-stats">
     <img height="180em" src="https://streak-stats.demolab.com?user=umi008&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
@@ -135,7 +135,7 @@ End-to-end webapps: Figma MCP → Next.js + shadcn/ui frontend, FastAPI/Flask ba
 
 <p align="center">
   <a href="https://github.com/umi008">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umi008&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umi008&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css" alt="Top Languages" />
   </a>
 </p>
 

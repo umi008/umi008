@@ -1,7 +1,7 @@
 <div align="center">
   
 # **Ulises Millán**
-M.Sc. Computer Science · México
+M.Sc. Computer Science · AI Engineer · México
 
 <br/>
 
@@ -9,8 +9,6 @@ M.Sc. Computer Science · México
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulises.millanguerrero@gmail.com)
 
 </div>
-
----
 
 ### Selected Work
 
@@ -49,7 +47,7 @@ Playwright-based API that validates Mexican government IDs (SAT/INE) in real-tim
 
 ---
 
-### Research & Recognition
+### Research & Work
 
 | Where | What | Result |
 |-------|------|--------|
@@ -58,8 +56,6 @@ Playwright-based API that validates Mexican government IDs (SAT/INE) in real-tim
 | 👥 **Beecker** (2023–present) | Tech advisor on architecture, tooling, and team decisions | Sole IC owning backend, frontend, infra, and AI |
 
 ---
-
-###Stack
 
 <div align="center">
 
